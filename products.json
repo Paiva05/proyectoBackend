@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Monitor Curvo 27''",
+    "description": "Monitor LED 144Hz con tecnología FreeSync y resolución 2K.",
+    "code": "MON001",
+    "price": 350.99,
+    "status": true,
+    "stock": 15,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/img/monitor_vista_frontal.jpg",
+      "/img/monitor_lateral.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Teclado Mecánico RGB",
+    "description": "Teclado con switches Cherry MX Brown y retroiluminación RGB personalizable.",
+    "code": "TCL005",
+    "price": 99.5,
+    "status": true,
+    "stock": 45,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/img/teclado_base.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Disco SSD M.2 1TB",
+    "description": "Unidad de estado sólido NVMe Gen4 de alta velocidad de lectura/escritura.",
+    "code": "SSD010",
+    "price": 85,
+    "status": true,
+    "stock": 100,
+    "category": "Almacenamiento",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Cámara Web HD",
+    "description": "Cámara web con micrófono integrado, resolución 1080p para videoconferencias.",
+    "code": "CAM003",
+    "price": 35.75,
+    "status": false,
+    "stock": 0,
+    "category": "Accesorios",
+    "thumbnails": [
+      "/img/webcam_paquete.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Audífonos Inalámbricos Pro",
+    "description": "Auriculares con cancelación activa de ruido y 30 horas de batería. Ideales para deporte y viajes.",
+    "code": "AUDI007",
+    "price": 129.99,
+    "status": true,
+    "stock": 80,
+    "category": "Audio",
+    "thumbnails": [
+      "/img/audifonos_blanco.png",
+      "/img/audifonos_estuche.png"
+    ]
+  }
+]
