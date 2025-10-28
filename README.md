@@ -17,7 +17,8 @@ Este proyecto es una API RESTful para gestionar un catálogo de productos y carr
 ## ⚙️ Estructura del Proyecto
 
 El código está organizado en capas separando el manejo de datos (Managers) del manejo de peticiones (Routers).
-
+ 
+```
 /ecommerce-api
 ├── src/
 │   ├── app.js               # Servidor principal y montaje de routers
@@ -31,6 +32,7 @@ El código está organizado en capas separando el manejo de datos (Managers) del
 ├── products.json            # Base de datos de productos (Persistencia)
 ├── carts.json               # Base de datos de carritos (Persistencia)
 └── package.json
+```
 
 ## 💻 Instalación y Ejecución
 
@@ -54,7 +56,7 @@ Asegúrate de tener **Node.js** instalado.
 Inicia el servidor en el puerto `8080`:
 
 ```bash
-node src/app.js
+node index.js
 ```
 
 ## 🛣️ Endpoints Implementados (Postman)
